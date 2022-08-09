@@ -1,0 +1,10 @@
+{
+  "name": "simplified-react",
+  "version": "1.0.0",
+  "description": "React for begginers, make a react app in 1 line of code!",
+  "main": "index.js",
+  "repository": "https://github.com/r6nted/simplified-react",
+  "author": "r6nted",
+  "license": "MIT",
+  "private": false
+}
